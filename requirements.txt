@@ -1,0 +1,2 @@
+selenium==4.7.2
+typer==0.7.0
